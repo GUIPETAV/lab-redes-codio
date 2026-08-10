@@ -11,6 +11,8 @@ Os alunos resolvem desafios práticos usando **apenas comandos bash no terminal 
 | [modulo-01-dns](modulo-01-dns) | DNS e resolução de nomes | `nslookup`, `dig`, `host`, `/etc/resolv.conf` |
 | [modulo-02-http](modulo-02-http) | HTTP e camada de aplicação | `curl`, `wget` |
 | [modulo-03-roteamento](modulo-03-roteamento) | Roteamento e camada de rede | `ip addr`, `ip route`, `traceroute`, `ping` |
+| [modulo-04-seguranca](modulo-04-seguranca) | Segurança de redes | `netstat`, `ss`, `nmap`, `ps` |
+| [modulo-05-enlace](modulo-05-enlace) | Camada de enlace | `ip link`, `arp`, `ifconfig`, MAC address |
 
 ## 🚀 Como usar
 

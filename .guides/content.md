@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de laboratórios de redes!
 
-Aqui você encontrará 3 módulos práticos para aprender redes usando o terminal Linux.
+Aqui você encontrará 5 módulos práticos para aprender redes usando o terminal Linux.
 
 ---
 
@@ -19,6 +19,14 @@ Você vai fazer requisições HTTP com `curl` e `wget`, além de entender códig
 ### [Módulo 3: Roteamento e Camada de Rede](modulo-03-roteamento)
 
 Você vai visualizar interfaces, rotas e testar conectividade com `ip addr`, `ip route`, `traceroute` e `ping`.
+
+### [Módulo 4: Segurança de Redes](modulo-04-seguranca)
+
+Você vai inspecionar portas abertas, conexões ativas e serviços com `netstat`, `ss`, `nmap` e `ps`.
+
+### [Módulo 5: Camada de Enlace](modulo-05-enlace)
+
+Você vai trabalhar com endereços MAC, tabela ARP e interfaces de rede com `ip link`, `arp`, `ifconfig` e `/sys/class/net`.
 
 ---
 
