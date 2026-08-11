@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de laboratórios de redes!
 
-Aqui você encontrará 5 módulos práticos para aprender redes usando o terminal Linux.
+Aqui você encontrará 10 módulos práticos para aprender redes usando o terminal Linux.
 
 ---
 
@@ -27,6 +27,26 @@ Você vai inspecionar portas abertas, conexões ativas e serviços com `netstat`
 ### [Módulo 5: Camada de Enlace](modulo-05-enlace)
 
 Você vai trabalhar com endereços MAC, tabela ARP e interfaces de rede com `ip link`, `arp`, `ifconfig` e `/sys/class/net`.
+
+### [Módulo 6: Sockets TCP/UDP com netcat](modulo-06-sockets)
+
+Você vai criar conexões TCP e UDP no terminal, escanear portas e fazer banner grabbing com `nc` (netcat).
+
+### [Módulo 7: Firewall e Controle de Tráfego](modulo-07-firewall)
+
+Você vai inspecionar e entender regras de firewall com `iptables` e `ufw`, aprendendo sobre cadeias, políticas e ações.
+
+### [Módulo 8: Proxy e Variáveis de Ambiente](modulo-08-proxy)
+
+Você vai configurar e usar proxies no terminal Linux por meio de variáveis de ambiente e opções do `curl`.
+
+### [Módulo 9: Wi-Fi e Redes Sem Fio](modulo-09-wifi)
+
+Você vai inspecionar interfaces Wi-Fi e listar redes disponíveis com `iwconfig`, `iw dev` e `nmcli`.
+
+### [Módulo 10: VPN e Túneis](modulo-10-vpn)
+
+Você vai explorar túneis de rede, verificar seu IP público e entender como VPNs funcionam com `ip tunnel`, `ip route` e `curl ipinfo.io`.
 
 ---
 

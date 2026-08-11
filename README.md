@@ -13,6 +13,11 @@ Os alunos resolvem desafios práticos usando **apenas comandos bash no terminal 
 | [modulo-03-roteamento](modulo-03-roteamento) | Roteamento e camada de rede | `ip addr`, `ip route`, `traceroute`, `ping` |
 | [modulo-04-seguranca](modulo-04-seguranca) | Segurança de redes | `netstat`, `ss`, `nmap`, `ps` |
 | [modulo-05-enlace](modulo-05-enlace) | Camada de enlace | `ip link`, `arp`, `ifconfig`, MAC address |
+| [modulo-06-sockets](modulo-06-sockets) | Sockets TCP/UDP com netcat | `nc` |
+| [modulo-07-firewall](modulo-07-firewall) | Firewall e controle de tráfego | `iptables`, `ufw` |
+| [modulo-08-proxy](modulo-08-proxy) | Proxy e variáveis de ambiente | `curl`, `http_proxy`, `https_proxy` |
+| [modulo-09-wifi](modulo-09-wifi) | Wi-Fi e redes sem fio | `iwconfig`, `iw`, `nmcli` |
+| [modulo-10-vpn](modulo-10-vpn) | VPN e túneis | `ip tunnel`, `curl ipinfo.io` |
 
 ## 🚀 Como usar
 
