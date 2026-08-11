@@ -1,15 +1,17 @@
-# Módulo 4: Segurança de Redes
+# 🔒 Módulo 4: Segurança de Redes — Quem está de olho na sua máquina?
 
-Laboratório prático de segurança usando apenas comandos bash.
+Você sabia que qualquer computador conectado à internet pode ter **portas abertas** esperando por conexões? E que um invasor poderia usar essas portas para entrar no sistema?
 
-## Comandos utilizados
+Neste módulo você vai aprender a enxergar o que está acontecendo na sua máquina do ponto de vista da segurança: quais portas estão abertas, quais serviços estão rodando e como um atacante poderia "mapear" um sistema. Conhecimento é a melhor defesa! 🛡️
 
-- `netstat`
-- `ss`
-- `nmap`
-- `ps`
+## 🛠️ Comandos utilizados
 
-## Como executar
+- `netstat` — mostra conexões de rede e portas abertas (comando clássico)
+- `ss` — versão moderna e mais rápida do netstat
+- `nmap` — scanner de portas: vê o que está "aberto" em um host
+- `ps` — lista os processos em execução no sistema
+
+## 🚀 Como executar os desafios
 
 Edite os arquivos em `desafios/` e execute um por um:
 
