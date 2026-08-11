@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-4460967357",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual cadeia do iptables processa os pacotes destinados ao próprio host?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "d69fc8ed-a1b0-4e17-934a-0e2e698e779a",
+    "correct": false,
+    "answer": "FORWARD"
+   },
+   {
+    "_id": "8cb53ac8-e0a4-4ba5-96cc-5dc674012226",
+    "correct": false,
+    "answer": "OUTPUT"
+   },
+   {
+    "_id": "06cdc118-cd7f-4981-be3c-aaea6c5419fb",
+    "correct": true,
+    "answer": "INPUT"
+   },
+   {
+    "_id": "c1d799bd-d0a6-4b55-95f2-ea8d7cf6774d",
+    "correct": false,
+    "answer": "PREROUTING"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

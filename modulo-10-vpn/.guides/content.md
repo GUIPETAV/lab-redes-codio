@@ -33,7 +33,7 @@ Interfaces de túnel aparecem no comando `ip link show` com tipos como `gre`, `i
 
 ## ✅ Quiz: VPN
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-5693307665)
 
 ---
 
@@ -99,4 +99,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: protocolo de túnel
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-5710360983)

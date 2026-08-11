@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-5693307665",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "O que uma VPN faz com o tráfego de rede do usuário?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "da46ecf5-8935-422c-9ec1-37d43b829559",
+    "correct": false,
+    "answer": "Bloqueia conexões externas"
+   },
+   {
+    "_id": "4b93e5b2-3256-46db-83bb-25cb426bf7bf",
+    "correct": true,
+    "answer": "Encaminha e opcionalmente criptografa o tráfego por um servidor intermediário"
+   },
+   {
+    "_id": "94775780-7180-4136-b622-a55453c437e8",
+    "correct": false,
+    "answer": "Aumenta a velocidade da conexão"
+   },
+   {
+    "_id": "0ad2cac3-7a4f-4b40-b6cb-57485675a965",
+    "correct": false,
+    "answer": "Substitui o endereço MAC do dispositivo"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

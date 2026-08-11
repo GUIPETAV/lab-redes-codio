@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-7635473142",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual protocolo de transporte garante a entrega ordenada dos pacotes?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "8f57516c-5b1c-44e0-b204-1100504ecedb",
+    "correct": false,
+    "answer": "UDP"
+   },
+   {
+    "_id": "c33411e9-dbd0-4c1a-b2ab-7bf7ea8af195",
+    "correct": true,
+    "answer": "TCP"
+   },
+   {
+    "_id": "fc11aacd-c778-4dc4-973f-7987fb574dce",
+    "correct": false,
+    "answer": "ICMP"
+   },
+   {
+    "_id": "b66def9c-867b-4e9e-ba0b-800c35dc1775",
+    "correct": false,
+    "answer": "ARP"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

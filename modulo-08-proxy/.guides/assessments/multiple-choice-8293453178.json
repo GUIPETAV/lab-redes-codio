@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-8293453178",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual variável de ambiente configura o proxy para conexões HTTPS no Linux?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "125371f5-e438-4a61-8b63-25567df2c9a9",
+    "correct": false,
+    "answer": "http_proxy"
+   },
+   {
+    "_id": "a9661c5b-7ee0-423d-a800-18d0c535f95d",
+    "correct": true,
+    "answer": "https_proxy"
+   },
+   {
+    "_id": "fc038b53-1d63-4ac9-ae88-fc241b0594f1",
+    "correct": false,
+    "answer": "ftp_proxy"
+   },
+   {
+    "_id": "577662af-7adb-43b0-bf50-249abdee6cdb",
+    "correct": false,
+    "answer": "proxy_url"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

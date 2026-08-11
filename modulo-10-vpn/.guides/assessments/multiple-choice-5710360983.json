@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-5710360983",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual protocolo de tunelamento no Linux encapsula pacotes IP dentro de pacotes IP sem criptografia?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "25799450-3585-415b-8a63-00d92e66003e",
+    "correct": false,
+    "answer": "WireGuard"
+   },
+   {
+    "_id": "22e54a8b-e1eb-400d-89fc-eaa269629842",
+    "correct": false,
+    "answer": "OpenVPN"
+   },
+   {
+    "_id": "f2abb9c8-d2d2-4ae3-845c-adb613a28988",
+    "correct": true,
+    "answer": "GRE"
+   },
+   {
+    "_id": "ca325e75-45d2-4ddd-8ba0-c5d0b56951f9",
+    "correct": false,
+    "answer": "TLS"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

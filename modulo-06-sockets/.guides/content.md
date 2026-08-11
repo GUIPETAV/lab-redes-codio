@@ -24,7 +24,7 @@ Uma **porta** é um número de 0 a 65535 que identifica qual serviço está send
 
 ## ✅ Quiz: protocolo de transporte
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-7635473142)
 
 ---
 
@@ -90,4 +90,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: portas
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-6241752544)

@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-7825844140",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual ação do iptables descarta o pacote SEM enviar mensagem de erro ao remetente?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "afd854a6-62b5-4668-a975-8172ca00a131",
+    "correct": false,
+    "answer": "REJECT"
+   },
+   {
+    "_id": "1bba9dd1-a5be-45e1-882d-54a4cbd17b92",
+    "correct": false,
+    "answer": "ACCEPT"
+   },
+   {
+    "_id": "1d959894-bdd4-47ea-b66a-a45e2398ebcf",
+    "correct": true,
+    "answer": "DROP"
+   },
+   {
+    "_id": "40ccb9ba-8f00-4d75-8a8e-919de50d3780",
+    "correct": false,
+    "answer": "LOG"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

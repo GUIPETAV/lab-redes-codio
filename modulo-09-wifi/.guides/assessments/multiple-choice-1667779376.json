@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-1667779376",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual comando lista as redes Wi-Fi disponíveis usando o NetworkManager?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "23e9c500-7d3c-487e-b9e9-303a019c6812",
+    "correct": false,
+    "answer": "iwconfig scan"
+   },
+   {
+    "_id": "654add18-f397-422a-9ec9-4672167fd4d2",
+    "correct": false,
+    "answer": "iw dev scan"
+   },
+   {
+    "_id": "7023e38d-82e2-42bd-908b-b41d38ce7617",
+    "correct": true,
+    "answer": "nmcli device wifi list"
+   },
+   {
+    "_id": "f4b4dc14-95a9-4f86-a586-b8b5ea7a756f",
+    "correct": false,
+    "answer": "ifconfig -a"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

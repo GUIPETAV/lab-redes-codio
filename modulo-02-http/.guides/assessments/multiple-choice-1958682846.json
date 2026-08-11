@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-1958682846",
+ "source": {
+  "name": "Quiz final: enviando dados",
+  "showName": true,
+  "instructions": "Qual método HTTP é usado para enviar dados para o servidor (como em um formulário de login)?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "06d299e8-b498-4ba5-84b1-25e34e3989af",
+    "correct": false,
+    "answer": "GET"
+   },
+   {
+    "_id": "556c86d9-3cc5-4dc9-b120-0d693b15bb22",
+    "correct": true,
+    "answer": "POST"
+   },
+   {
+    "_id": "e08a858a-2d3d-436b-befe-b60c568b53c3",
+    "correct": false,
+    "answer": "DELETE"
+   },
+   {
+    "_id": "cd3545c6-9da4-4e6f-b9ee-859d166e3659",
+    "correct": false,
+    "answer": "HEAD"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

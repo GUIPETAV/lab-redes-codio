@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-2812140441",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual é o comando moderno que substitui o netstat no Linux?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "f5b13afb-0175-4300-be06-383fbfb96271",
+    "correct": false,
+    "answer": "ifconfig"
+   },
+   {
+    "_id": "9f30dd3e-ef40-4842-b1cb-c63502597da7",
+    "correct": true,
+    "answer": "ss"
+   },
+   {
+    "_id": "59c6726a-795b-4225-863a-3e461a2fb4be",
+    "correct": false,
+    "answer": "route"
+   },
+   {
+    "_id": "11228e3e-c44f-4514-8091-21531c50a1a7",
+    "correct": false,
+    "answer": "arp"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

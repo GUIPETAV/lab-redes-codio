@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-4163119785",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual comando mostra a tabela de roteamento no Linux moderno?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "6ee62faf-a307-4958-8489-c37ce4d15640",
+    "correct": false,
+    "answer": "route"
+   },
+   {
+    "_id": "ce108db8-fd25-4f9e-a4c1-97ea702c16b9",
+    "correct": false,
+    "answer": "netstat -r"
+   },
+   {
+    "_id": "fe035137-8685-440e-9a26-911c5af6b8be",
+    "correct": true,
+    "answer": "ip route"
+   },
+   {
+    "_id": "c4fb0e89-ea69-4272-96a5-241dd29f5544",
+    "correct": false,
+    "answer": "ifconfig"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

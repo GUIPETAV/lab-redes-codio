@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-9963334018",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual comando testa conectividade com outro host na rede?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "6380f5fc-a06e-4795-aca1-310b936bf7f1",
+    "correct": false,
+    "answer": "ip addr"
+   },
+   {
+    "_id": "5a5e4334-8705-42a1-9aaa-04b591a23048",
+    "correct": false,
+    "answer": "traceroute"
+   },
+   {
+    "_id": "5417b410-8ec8-4e58-9cb5-bfd429994b7c",
+    "correct": true,
+    "answer": "ping"
+   },
+   {
+    "_id": "f9aa1e0c-4804-4460-87d1-bfff00b4ecbe",
+    "correct": false,
+    "answer": "curl"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

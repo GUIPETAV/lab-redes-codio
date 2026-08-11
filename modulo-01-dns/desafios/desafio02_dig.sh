@@ -5,8 +5,11 @@
 # 2. Registros MX de ufpb.br
 # Salve tudo em respostas/desafio02.txt
 
-# TODO: complete os comandos abaixo
-# dig +short ufpb.br >> respostas/desafio02.txt
-# dig +short MX ufpb.br >> respostas/desafio02.txt
-
-echo "Complete os comandos dig neste arquivo"
+mkdir -p respostas
+{
+  echo "## IP de ufpb.br"
+  dig +short ufpb.br
+  echo
+  echo "## Registros MX de ufpb.br"
+  dig MX ufpb.br
+} > respostas/desafio02.txt 2>&1
