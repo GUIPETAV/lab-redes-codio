@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Módulo 1: DNS — Como a internet traduz nomes em números
 
 Já parou pra pensar por que você digita `youtube.com` e não precisa decorar um monte de números? É aí que entra o **DNS** (Domain Name System)! Ele funciona como uma "agenda telefônica" da internet: você dá um nome e ele te devolve o endereço IP correspondente.
@@ -14,6 +15,22 @@ Neste laboratório você vai usar comandos no terminal Linux para descobrir IPs,
 ## 🚀 Como executar os desafios
 
 Edite cada arquivo em `desafios/` e rode um por um no terminal:
+=======
+# Módulo 1: DNS e Resolução de Nomes
+
+Laboratório prático de redes usando apenas comandos bash.
+
+## Comandos utilizados
+
+- `nslookup`
+- `dig`
+- `host`
+- `cat /etc/resolv.conf`
+
+## Como executar
+
+Edite os arquivos em `desafios/` e execute um por um:
+>>>>>>> origin/main
 
 ```bash
 bash desafios/desafio01_nslookup.sh
@@ -22,7 +39,11 @@ bash desafios/desafio03_host.sh
 bash desafios/desafio04_resolv_conf.sh
 ```
 
+<<<<<<< HEAD
 Depois de completar todos, verifique sua nota:
+=======
+Depois execute a verificação:
+>>>>>>> origin/main
 
 ```bash
 bash testes/verificar_desafios.sh

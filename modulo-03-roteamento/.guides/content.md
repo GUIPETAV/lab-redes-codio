@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🗺️ Módulo 3: Roteamento — Os caminhos da internet
 
 Quando você manda uma mensagem para um amigo em outro país, essa mensagem não vai direta — ela passa por vários **roteadores** no caminho, como se fosse uma corrida de revezamento! Cada roteador olha o destino e decide para onde mandar o pacote a seguir.
@@ -17,6 +18,27 @@ O IP (Internet Protocol) é o endereço usado nessa camada — diferente do MAC,
 ---
 
 ## ✅ Quiz rápido: tabela de roteamento
+=======
+# 🌐 Módulo 3: Roteamento e Camada de Rede
+
+Neste módulo você vai aprender a visualizar interfaces, rotas e conectividade usando comandos Linux.
+
+---
+
+## 📖 Conceitos iniciais
+
+A camada de rede é responsável por levar pacotes de uma origem até um destino, possivelmente passando por vários roteadores.
+
+Comandos importantes:
+- `ip addr` → mostra interfaces de rede
+- `ip route` → mostra a tabela de roteamento
+- `traceroute` → mostra a rota até o destino
+- `ping` → testa conectividade
+
+---
+
+## ✅ Quiz: comando de rota
+>>>>>>> origin/main
 
 ::multiple-choice::Qual comando mostra a tabela de roteamento no Linux moderno?
 {
@@ -30,6 +52,7 @@ O IP (Internet Protocol) é o endereço usado nessa camada — diferente do MAC,
 
 ## 🎯 Desafios
 
+<<<<<<< HEAD
 ### 🔍 Desafio 1 — Vendo as interfaces de rede
 
 Edite `desafios/desafio01_ip_addr.sh`.
@@ -47,11 +70,23 @@ bash desafios/desafio01_ip_addr.sh
 ---
 
 ### 🔍 Desafio 2 — Tabela de roteamento
+=======
+### Desafio 1 — Interfaces de rede
+
+Edite `desafios/desafio01_ip_addr.sh`.
+
+Use `ip addr` para listar as interfaces de rede e salve em `respostas/desafio01.txt`.
+
+---
+
+### Desafio 2 — Tabela de roteamento
+>>>>>>> origin/main
 
 Edite `desafios/desafio02_ip_route.sh`.
 
 Use `ip route` para mostrar a tabela de roteamento e salve em `respostas/desafio02.txt`.
 
+<<<<<<< HEAD
 > **O que você vai ver?** As rotas configuradas — incluindo a **rota padrão** (default), que é o caminho para quando o destino não está na rede local (basicamente o "sai pela internet por aqui").
 
 Execute:
@@ -97,6 +132,27 @@ bash desafios/desafio04_ping_multiplo.sh
 ## ✅ Verificação final
 
 Terminou tudo? Hora de ver sua nota! 🎉
+=======
+---
+
+### Desafio 3 — Traceroute
+
+Edite `desafios/desafio03_traceroute.sh`.
+
+Use `traceroute -m 10` para ver a rota até `google.com` e salve em `respostas/desafio03.txt`.
+
+---
+
+### Desafio 4 — Ping múltiplo
+
+Edite `desafios/desafio04_ping_multiplo.sh`.
+
+Use `ping -c 3` para testar `google.com`, `github.com` e `ufpb.br` e salve os resultados em `respostas/desafio04.txt`.
+
+---
+
+## ✅ Verificação
+>>>>>>> origin/main
 
 ```bash
 bash testes/verificar_desafios.sh
@@ -104,7 +160,11 @@ bash testes/verificar_desafios.sh
 
 ---
 
+<<<<<<< HEAD
 ## ✅ Quiz final: testando conexão
+=======
+## ✅ Quiz final: teste de conectividade
+>>>>>>> origin/main
 
 ::multiple-choice::Qual comando testa conectividade com outro host na rede?
 {
