@@ -21,8 +21,8 @@ Aqui você não vai só ler teoria — você vai **colocar a mão na massa** usa
 
 ## 🚀 Como funciona cada módulo
 
-1. **Abra o módulo** desejado no Codio — o layout já fica organizado automaticamente
-2. **Leia o Guide** (painel ao lado) com as explicações e os desafios
+1. **Abra o Guide** (painel ao lado) — todos os módulos aparecem como capítulos na mesma navegação, com as explicações, quizzes e desafios
+2. **No terminal**, entre na pasta do módulo que está estudando: `cd modulo-XX-nome`
 3. **Edite os scripts** na pasta `desafios/` e execute no terminal
 4. **Verifique sua nota** rodando o script de correção automática:
 
@@ -30,12 +30,15 @@ Aqui você não vai só ler teoria — você vai **colocar a mão na massa** usa
 bash testes/verificar_desafios.sh
 ```
 
-## 🛠️ Estrutura de cada módulo
+## 🛠️ Estrutura do projeto
 
 ```
+.guides/
+├── book.json                     # Índice do Guide (um capítulo por módulo)
+├── content/                      # Material didático de cada módulo (quizzes e desafios)
+└── assessments/                  # Perguntas dos quizzes de todos os módulos
+
 modulo-XX-nome/
-├── .codio                        # Configura o layout da tela no Codio
-├── .guides/content.md            # Material didático com quizzes e desafios
 ├── README.md                     # Resumo e instruções do módulo
 ├── desafios/                     # Scripts que você vai completar
 ├── respostas/                    # Onde as saídas dos desafios são salvas
