@@ -29,13 +29,7 @@ Os **códigos de status** mais famosos:
 
 ## ✅ Quiz rápido: o famoso 404
 
-::multiple-choice::O código HTTP 404 significa:
-{
-  ~ Servidor sobrecarregado
-  ~ Página não encontrada = correto
-  ~ Redirecionamento permanente
-  ~ Acesso não autorizado
-}
+{Quiz: o famoso 404}(assessment)
 
 ---
 
@@ -99,10 +93,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: enviando dados
 
-::multiple-choice::Qual método HTTP é usado para enviar dados para um servidor?
-{
-  ~ GET
-  ~ POST = correto
-  ~ DELETE
-  ~ HEAD
-}
+{Quiz final: enviando dados}(assessment)

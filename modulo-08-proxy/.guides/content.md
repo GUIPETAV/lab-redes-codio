@@ -37,13 +37,7 @@ env | grep -i proxy
 
 ## ✅ Quiz: variável de proxy
 
-::multiple-choice::Qual variável de ambiente configura o proxy para conexões HTTPS no Linux?
-{
-  ~ http_proxy
-  ~ https_proxy = correto
-  ~ ftp_proxy
-  ~ proxy_url
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -109,10 +103,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: opção curl
 
-::multiple-choice::Qual opção do curl especifica um proxy manualmente?
-{
-  ~ --header
-  ~ --proxy = correto
-  ~ --output
-  ~ --follow
-}
+{Quiz 2}(assessment)

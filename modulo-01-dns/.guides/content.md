@@ -21,13 +21,7 @@ O seu computador sabe a qual servidor DNS perguntar graças ao arquivo `/etc/res
 
 ## ✅ Quiz rápido: endereço do DNS do Google
 
-::multiple-choice::Qual é o endereço IP do DNS público do Google?
-{
-  ~ 8.8.4.4
-  ~ 8.8.8.8 = correto
-  ~ 1.1.1.1
-  ~ 208.67.222.222
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -109,10 +103,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: quem cuida dos e-mails?
 
-::multiple-choice::Qual comando mostra os servidores de e-mail (MX) de um domínio?
-{
-  ~ nslookup
-  ~ dig +short MX nome.com = correto
-  ~ ping
-  ~ traceroute
-}
+{Quiz 2}(assessment)

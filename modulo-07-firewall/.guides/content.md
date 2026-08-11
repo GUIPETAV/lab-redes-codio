@@ -29,13 +29,7 @@ O `ufw` simplifica o gerenciamento: `ufw allow 22` permite a porta SSH, `ufw den
 
 ## ✅ Quiz: ação de firewall
 
-::multiple-choice::Qual ação do iptables descarta o pacote SEM enviar mensagem de erro ao remetente?
-{
-  ~ REJECT
-  ~ ACCEPT
-  ~ DROP = correto
-  ~ LOG
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -101,10 +95,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: cadeia do iptables
 
-::multiple-choice::Qual cadeia do iptables processa os pacotes destinados ao próprio host?
-{
-  ~ FORWARD
-  ~ OUTPUT
-  ~ INPUT = correto
-  ~ PREROUTING
-}
+{Quiz 2}(assessment)

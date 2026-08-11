@@ -1,0 +1,54 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 1",
+      "question": "Qual comando mostra a tabela de roteamento no Linux moderno?",
+      "answers": [
+        {
+          "text": "route",
+          "correct": false
+        },
+        {
+          "text": "netstat -r",
+          "correct": false
+        },
+        {
+          "text": "ip route",
+          "correct": true
+        },
+        {
+          "text": "ifconfig",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 2",
+      "question": "Qual comando testa conectividade com outro host na rede?",
+      "answers": [
+        {
+          "text": "ip addr",
+          "correct": false
+        },
+        {
+          "text": "traceroute",
+          "correct": false
+        },
+        {
+          "text": "ping",
+          "correct": true
+        },
+        {
+          "text": "curl",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

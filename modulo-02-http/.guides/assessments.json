@@ -1,0 +1,30 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz: o famoso 404",
+      "question": "O código HTTP 404 significa:",
+      "answers": [
+        { "text": "Servidor sobrecarregado", "correct": false },
+        { "text": "Página não encontrada", "correct": true },
+        { "text": "Redirecionamento permanente", "correct": false },
+        { "text": "Acesso não autorizado", "correct": false }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz final: enviando dados",
+      "question": "Qual método HTTP é usado para enviar dados para o servidor (como em um formulário de login)?",
+      "answers": [
+        { "text": "GET", "correct": false },
+        { "text": "POST", "correct": true },
+        { "text": "DELETE", "correct": false },
+        { "text": "HEAD", "correct": false }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

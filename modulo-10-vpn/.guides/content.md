@@ -33,13 +33,7 @@ Interfaces de túnel aparecem no comando `ip link show` com tipos como `gre`, `i
 
 ## ✅ Quiz: VPN
 
-::multiple-choice::O que uma VPN faz com o tráfego de rede do usuário?
-{
-  ~ Bloqueia conexões externas
-  ~ Encaminha e opcionalmente criptografa o tráfego por um servidor intermediário = correto
-  ~ Aumenta a velocidade da conexão
-  ~ Substitui o endereço MAC do dispositivo
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -105,10 +99,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: protocolo de túnel
 
-::multiple-choice::Qual protocolo de tunelamento no Linux encapsula pacotes IP dentro de pacotes IP sem criptografia?
-{
-  ~ WireGuard
-  ~ OpenVPN
-  ~ GRE = correto
-  ~ TLS
-}
+{Quiz 2}(assessment)

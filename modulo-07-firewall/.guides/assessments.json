@@ -1,0 +1,54 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 1",
+      "question": "Qual ação do iptables descarta o pacote SEM enviar mensagem de erro ao remetente?",
+      "answers": [
+        {
+          "text": "REJECT",
+          "correct": false
+        },
+        {
+          "text": "ACCEPT",
+          "correct": false
+        },
+        {
+          "text": "DROP",
+          "correct": true
+        },
+        {
+          "text": "LOG",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 2",
+      "question": "Qual cadeia do iptables processa os pacotes destinados ao próprio host?",
+      "answers": [
+        {
+          "text": "FORWARD",
+          "correct": false
+        },
+        {
+          "text": "OUTPUT",
+          "correct": false
+        },
+        {
+          "text": "INPUT",
+          "correct": true
+        },
+        {
+          "text": "PREROUTING",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

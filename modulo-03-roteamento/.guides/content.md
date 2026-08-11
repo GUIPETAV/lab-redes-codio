@@ -18,13 +18,7 @@ O IP (Internet Protocol) é o endereço usado nessa camada — diferente do MAC,
 
 ## ✅ Quiz rápido: tabela de roteamento
 
-::multiple-choice::Qual comando mostra a tabela de roteamento no Linux moderno?
-{
-  ~ route
-  ~ netstat -r
-  ~ ip route = correto
-  ~ ifconfig
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -106,10 +100,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: testando conexão
 
-::multiple-choice::Qual comando testa conectividade com outro host na rede?
-{
-  ~ ip addr
-  ~ traceroute
-  ~ ping = correto
-  ~ curl
-}
+{Quiz 2}(assessment)

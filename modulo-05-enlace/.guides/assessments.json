@@ -1,0 +1,54 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 1",
+      "question": "Qual é o endereço usado na camada de enlace de dados?",
+      "answers": [
+        {
+          "text": "Endereço IP",
+          "correct": false
+        },
+        {
+          "text": "Endereço MAC",
+          "correct": true
+        },
+        {
+          "text": "Endereço de porta",
+          "correct": false
+        },
+        {
+          "text": "Endereço DNS",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 2",
+      "question": "Qual tabela relaciona endereços IP com endereços MAC na rede local?",
+      "answers": [
+        {
+          "text": "Tabela de roteamento",
+          "correct": false
+        },
+        {
+          "text": "Tabela DNS",
+          "correct": false
+        },
+        {
+          "text": "Tabela ARP",
+          "correct": true
+        },
+        {
+          "text": "Tabela NAT",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

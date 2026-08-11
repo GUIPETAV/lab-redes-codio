@@ -20,13 +20,7 @@ Quando uma porta está "aberta", significa que tem um serviço escutando conexõ
 
 ## ✅ Quiz rápido: substituto do netstat
 
-::multiple-choice::Qual é o comando moderno que substitui o netstat no Linux?
-{
-  ~ ifconfig
-  ~ ss = correto
-  ~ route
-  ~ arp
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -79,10 +73,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: descobrindo portas abertas
 
-::multiple-choice::Qual ferramenta é comumente usada para descobrir portas abertas em um host remoto?
-{
-  ~ ping
-  ~ traceroute
-  ~ nmap = correto
-  ~ dig
-}
+{Quiz 2}(assessment)

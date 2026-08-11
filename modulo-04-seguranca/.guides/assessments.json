@@ -1,0 +1,54 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 1",
+      "question": "Qual é o comando moderno que substitui o netstat no Linux?",
+      "answers": [
+        {
+          "text": "ifconfig",
+          "correct": false
+        },
+        {
+          "text": "ss",
+          "correct": true
+        },
+        {
+          "text": "route",
+          "correct": false
+        },
+        {
+          "text": "arp",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 2",
+      "question": "Qual ferramenta é comumente usada para descobrir portas abertas em um host remoto?",
+      "answers": [
+        {
+          "text": "ping",
+          "correct": false
+        },
+        {
+          "text": "traceroute",
+          "correct": false
+        },
+        {
+          "text": "nmap",
+          "correct": true
+        },
+        {
+          "text": "dig",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

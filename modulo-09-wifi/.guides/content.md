@@ -35,13 +35,7 @@ nmcli device status
 
 ## ✅ Quiz: ferramenta Wi-Fi
 
-::multiple-choice::Qual comando lista as redes Wi-Fi disponíveis usando o NetworkManager?
-{
-  ~ iwconfig scan
-  ~ iw dev scan
-  ~ nmcli device wifi list = correto
-  ~ ifconfig -a
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -107,10 +101,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: frequência Wi-Fi
 
-::multiple-choice::Em quais frequências as redes Wi-Fi tipicamente operam?
-{
-  ~ 900 MHz e 1.8 GHz
-  ~ 2.4 GHz e 5 GHz = correto
-  ~ 3 GHz e 6 GHz
-  ~ 10 GHz e 60 GHz
-}
+{Quiz 2}(assessment)

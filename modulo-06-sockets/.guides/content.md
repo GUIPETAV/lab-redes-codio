@@ -24,13 +24,7 @@ Uma **porta** é um número de 0 a 65535 que identifica qual serviço está send
 
 ## ✅ Quiz: protocolo de transporte
 
-::multiple-choice::Qual protocolo de transporte garante a entrega ordenada dos pacotes?
-{
-  ~ UDP
-  ~ TCP = correto
-  ~ ICMP
-  ~ ARP
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -96,10 +90,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: portas
 
-::multiple-choice::Qual porta padrão é usada pelo protocolo HTTPS?
-{
-  ~ 80
-  ~ 22
-  ~ 443 = correto
-  ~ 8080
-}
+{Quiz 2}(assessment)

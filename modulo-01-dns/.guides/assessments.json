@@ -1,0 +1,54 @@
+{
+  "assessments": [
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 1",
+      "question": "Qual é o endereço IP do DNS público do Google?",
+      "answers": [
+        {
+          "text": "8.8.4.4",
+          "correct": false
+        },
+        {
+          "text": "8.8.8.8",
+          "correct": true
+        },
+        {
+          "text": "1.1.1.1",
+          "correct": false
+        },
+        {
+          "text": "208.67.222.222",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    },
+    {
+      "type": "multiple-choice",
+      "name": "Quiz 2",
+      "question": "Qual comando mostra os servidores de e-mail (MX) de um domínio?",
+      "answers": [
+        {
+          "text": "nslookup",
+          "correct": false
+        },
+        {
+          "text": "dig +short MX nome.com",
+          "correct": true
+        },
+        {
+          "text": "ping",
+          "correct": false
+        },
+        {
+          "text": "traceroute",
+          "correct": false
+        }
+      ],
+      "points": 1,
+      "shuffle": false
+    }
+  ]
+}

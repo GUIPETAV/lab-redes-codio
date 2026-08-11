@@ -16,13 +16,7 @@ O protocolo **ARP** (Address Resolution Protocol) é o responsável por fazer a 
 
 ## ✅ Quiz rápido: endereço da camada de enlace
 
-::multiple-choice::Qual é o endereço usado na camada de enlace de dados?
-{
-  ~ Endereço IP
-  ~ Endereço MAC = correto
-  ~ Endereço de porta
-  ~ Endereço DNS
-}
+{Quiz 1}(assessment)
 
 ---
 
@@ -68,10 +62,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: IP ↔ MAC na rede local
 
-::multiple-choice::Qual tabela relaciona endereços IP com endereços MAC na rede local?
-{
-  ~ Tabela de roteamento
-  ~ Tabela DNS
-  ~ Tabela ARP = correto
-  ~ Tabela NAT
-}
+{Quiz 2}(assessment)
