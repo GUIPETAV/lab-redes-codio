@@ -1,0 +1,82 @@
+{
+ "name": "lab-redes-codio",
+ "children": [
+  {
+   "title": "Bem-vindo",
+   "id": "642fe75b-17dc-4eae-8261-2339d85b089b",
+   "pageId": "642fe75b-17dc-4eae-8261-2339d85b089b",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 1: DNS",
+   "id": "cd657198-b44e-4ba3-8c3d-ab2eecbecc69",
+   "pageId": "cd657198-b44e-4ba3-8c3d-ab2eecbecc69",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 2: HTTP",
+   "id": "4714fbd3-b41f-42ad-91fb-8ea7730834f6",
+   "pageId": "4714fbd3-b41f-42ad-91fb-8ea7730834f6",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 3: Roteamento",
+   "id": "c47cbaaf-f2b6-48c3-91d2-5ad42cb05e8a",
+   "pageId": "c47cbaaf-f2b6-48c3-91d2-5ad42cb05e8a",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 4: Segurança de Redes",
+   "id": "99e2b313-a008-48d6-b790-9f8b5f4f75bb",
+   "pageId": "99e2b313-a008-48d6-b790-9f8b5f4f75bb",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 5: Camada de Enlace",
+   "id": "ac0e3530-c462-44ea-8944-9489b4278d1c",
+   "pageId": "ac0e3530-c462-44ea-8944-9489b4278d1c",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 6: Sockets TCP/UDP",
+   "id": "485ecb92-0b06-49bf-af71-a1d8bdf35080",
+   "pageId": "485ecb92-0b06-49bf-af71-a1d8bdf35080",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 7: Firewall",
+   "id": "344999ba-b213-4abb-9217-5e2b7c31ab3d",
+   "pageId": "344999ba-b213-4abb-9217-5e2b7c31ab3d",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 8: Proxy",
+   "id": "0edc2128-93de-4c98-9b01-d0bf89a97e17",
+   "pageId": "0edc2128-93de-4c98-9b01-d0bf89a97e17",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 9: Wi-Fi",
+   "id": "25dcd75f-cc1a-4ff6-965e-374ee0c4321a",
+   "pageId": "25dcd75f-cc1a-4ff6-965e-374ee0c4321a",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Módulo 10: VPN e Túneis",
+   "id": "9c144b19-8db3-45b9-aadb-258cd37b7ad1",
+   "pageId": "9c144b19-8db3-45b9-aadb-258cd37b7ad1",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
