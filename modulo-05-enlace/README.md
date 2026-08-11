@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📡 Módulo 5: Camada de Enlace — O "CPF" da sua placa de rede
 
 Você já ouviu falar em **endereço MAC**? É o "CPF" da sua placa de rede — um número único que identifica fisicamente cada dispositivo na rede local. Diferente do IP (que pode mudar), o MAC vem gravado na placa de rede de fábrica.
@@ -13,20 +12,6 @@ Neste módulo você vai explorar a camada mais "baixa" da comunicação em rede:
 - `cat /sys/class/net/*/address` — lê os endereços MAC diretamente do sistema
 
 ## 🚀 Como executar os desafios
-=======
-# Módulo 5: Camada de Enlace
-
-Laboratório prático de camada de enlace usando apenas comandos bash.
-
-## Comandos utilizados
-
-- `ip link`
-- `arp`
-- `ifconfig`
-- `cat /sys/class/net/*/address`
-
-## Como executar
->>>>>>> origin/main
 
 Edite os arquivos em `desafios/` e execute um por um:
 

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔒 Módulo 4: Segurança de Redes — Quem está de olho na sua máquina?
 
 Você sabia que qualquer computador conectado à internet pode ter **portas abertas** esperando por conexões? E que um invasor poderia usar essas portas para entrar no sistema?
@@ -13,20 +12,6 @@ Neste módulo você vai aprender a enxergar o que está acontecendo na sua máqu
 - `ps` — lista os processos em execução no sistema
 
 ## 🚀 Como executar os desafios
-=======
-# Módulo 4: Segurança de Redes
-
-Laboratório prático de segurança usando apenas comandos bash.
-
-## Comandos utilizados
-
-- `netstat`
-- `ss`
-- `nmap`
-- `ps`
-
-## Como executar
->>>>>>> origin/main
 
 Edite os arquivos em `desafios/` e execute um por um:
 
