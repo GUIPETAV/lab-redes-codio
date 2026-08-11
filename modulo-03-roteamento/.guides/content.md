@@ -18,7 +18,7 @@ O IP (Internet Protocol) é o endereço usado nessa camada — diferente do MAC,
 
 ## ✅ Quiz rápido: tabela de roteamento
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-4163119785)
 
 ---
 
@@ -100,4 +100,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: testando conexão
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-9963334018)

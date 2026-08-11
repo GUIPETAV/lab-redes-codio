@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-2181241943",
+ "source": {
+  "name": "Quiz: o famoso 404",
+  "showName": true,
+  "instructions": "O código HTTP 404 significa:",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "0a4a452b-752b-4df0-8bef-1fa5a087f522",
+    "correct": false,
+    "answer": "Servidor sobrecarregado"
+   },
+   {
+    "_id": "44d6ef85-c5a4-42a4-9cd7-1956a1b5bbc6",
+    "correct": true,
+    "answer": "Página não encontrada"
+   },
+   {
+    "_id": "fa11a34f-dca0-4921-a819-3c03edff36ec",
+    "correct": false,
+    "answer": "Redirecionamento permanente"
+   },
+   {
+    "_id": "9ac2e9aa-435f-4f51-b913-7c1796b2e654",
+    "correct": false,
+    "answer": "Acesso não autorizado"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

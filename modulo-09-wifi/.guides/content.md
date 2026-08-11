@@ -35,7 +35,7 @@ nmcli device status
 
 ## ✅ Quiz: ferramenta Wi-Fi
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-1667779376)
 
 ---
 
@@ -101,4 +101,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: frequência Wi-Fi
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-2445662585)

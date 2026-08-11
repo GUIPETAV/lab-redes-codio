@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-1939042955",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual é o endereço usado na camada de enlace de dados?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "0565f322-740a-4d7b-b8cb-61bae15ac21c",
+    "correct": false,
+    "answer": "Endereço IP"
+   },
+   {
+    "_id": "fc5ad240-7539-4730-8b74-f30b0d7dc25e",
+    "correct": true,
+    "answer": "Endereço MAC"
+   },
+   {
+    "_id": "4fba0962-5eb0-4fab-b65c-b8899689490e",
+    "correct": false,
+    "answer": "Endereço de porta"
+   },
+   {
+    "_id": "d5be2868-4f7c-4665-9273-0787d90bf6bb",
+    "correct": false,
+    "answer": "Endereço DNS"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

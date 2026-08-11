@@ -21,7 +21,7 @@ O seu computador sabe a qual servidor DNS perguntar graças ao arquivo `/etc/res
 
 ## ✅ Quiz rápido: endereço do DNS do Google
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-3746317213)
 
 ---
 
@@ -103,4 +103,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: quem cuida dos e-mails?
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-9697354961)

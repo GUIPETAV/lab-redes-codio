@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-3746317213",
+ "source": {
+  "name": "Quiz 1",
+  "showName": true,
+  "instructions": "Qual é o endereço IP do DNS público do Google?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "30a886d7-2049-42a9-a6aa-16cc3b7c629f",
+    "correct": false,
+    "answer": "8.8.4.4"
+   },
+   {
+    "_id": "f75055e5-51e3-40d2-9866-bd184beccc6c",
+    "correct": true,
+    "answer": "8.8.8.8"
+   },
+   {
+    "_id": "cdd1335f-c48b-4b52-8e8e-15cf2780aab2",
+    "correct": false,
+    "answer": "1.1.1.1"
+   },
+   {
+    "_id": "2797defa-e5a6-4d35-842c-ad1c42928d33",
+    "correct": false,
+    "answer": "208.67.222.222"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-9703905715",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual tabela relaciona endereços IP com endereços MAC na rede local?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "aeb7245b-6e39-4813-8c31-e522e81e61a4",
+    "correct": false,
+    "answer": "Tabela de roteamento"
+   },
+   {
+    "_id": "71eb2231-9e1b-4ddf-9713-11744f49bc10",
+    "correct": false,
+    "answer": "Tabela DNS"
+   },
+   {
+    "_id": "6e84c884-f08a-44e3-b415-54f395bc1883",
+    "correct": true,
+    "answer": "Tabela ARP"
+   },
+   {
+    "_id": "e1d6f56b-10e6-49a7-971e-f8b86316d8de",
+    "correct": false,
+    "answer": "Tabela NAT"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

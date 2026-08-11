@@ -29,7 +29,7 @@ Os **códigos de status** mais famosos:
 
 ## ✅ Quiz rápido: o famoso 404
 
-{Quiz: o famoso 404}(assessment)
+{Quiz: o famoso 404|assessment}(multiple-choice-2181241943)
 
 ---
 
@@ -93,4 +93,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: enviando dados
 
-{Quiz final: enviando dados}(assessment)
+{Quiz final: enviando dados|assessment}(multiple-choice-1958682846)

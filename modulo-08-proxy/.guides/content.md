@@ -37,7 +37,7 @@ env | grep -i proxy
 
 ## ✅ Quiz: variável de proxy
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-8293453178)
 
 ---
 
@@ -103,4 +103,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: opção curl
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-6756332150)

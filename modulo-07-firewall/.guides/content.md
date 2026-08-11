@@ -29,7 +29,7 @@ O `ufw` simplifica o gerenciamento: `ufw allow 22` permite a porta SSH, `ufw den
 
 ## ✅ Quiz: ação de firewall
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-7825844140)
 
 ---
 
@@ -95,4 +95,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: cadeia do iptables
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-4460967357)

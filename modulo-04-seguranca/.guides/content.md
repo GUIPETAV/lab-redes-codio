@@ -20,7 +20,7 @@ Quando uma porta está "aberta", significa que tem um serviço escutando conexõ
 
 ## ✅ Quiz rápido: substituto do netstat
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-2812140441)
 
 ---
 
@@ -73,4 +73,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: descobrindo portas abertas
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-1127978094)

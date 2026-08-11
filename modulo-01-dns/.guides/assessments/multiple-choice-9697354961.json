@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-9697354961",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual comando mostra os servidores de e-mail (MX) de um domínio?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "15b2a22f-313c-4510-843b-abebe06e231f",
+    "correct": false,
+    "answer": "nslookup"
+   },
+   {
+    "_id": "4105e51f-acd7-4a39-981f-a2e7ec557dd1",
+    "correct": true,
+    "answer": "dig +short MX nome.com"
+   },
+   {
+    "_id": "b265a940-36ba-4892-9fbb-2bddde8e1d7a",
+    "correct": false,
+    "answer": "ping"
+   },
+   {
+    "_id": "e9a60e2d-9443-4805-ab20-35e335927989",
+    "correct": false,
+    "answer": "traceroute"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}

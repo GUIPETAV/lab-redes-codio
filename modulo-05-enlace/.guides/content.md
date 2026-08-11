@@ -16,7 +16,7 @@ O protocolo **ARP** (Address Resolution Protocol) é o responsável por fazer a 
 
 ## ✅ Quiz rápido: endereço da camada de enlace
 
-{Quiz 1}(assessment)
+{Quiz 1|assessment}(multiple-choice-1939042955)
 
 ---
 
@@ -62,4 +62,4 @@ bash testes/verificar_desafios.sh
 
 ## ✅ Quiz final: IP ↔ MAC na rede local
 
-{Quiz 2}(assessment)
+{Quiz 2|assessment}(multiple-choice-9703905715)

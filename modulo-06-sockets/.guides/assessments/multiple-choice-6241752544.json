@@ -1,0 +1,38 @@
+{
+ "type": "multiple-choice",
+ "taskId": "multiple-choice-6241752544",
+ "source": {
+  "name": "Quiz 2",
+  "showName": true,
+  "instructions": "Qual porta padrão é usada pelo protocolo HTTPS?",
+  "multipleResponse": false,
+  "answers": [
+   {
+    "_id": "beba6863-c327-49ce-8e0c-e5e0e261aef9",
+    "correct": false,
+    "answer": "80"
+   },
+   {
+    "_id": "27103152-4532-462a-a312-eadbb1a87d5b",
+    "correct": false,
+    "answer": "22"
+   },
+   {
+    "_id": "ebb2ce5b-522f-44fd-bfe1-b791fe7e28eb",
+    "correct": true,
+    "answer": "443"
+   },
+   {
+    "_id": "5bdd0a12-e551-4a06-aee3-eb9a389c0e41",
+    "correct": false,
+    "answer": "8080"
+   }
+  ],
+  "tokens": {
+   "blank": [],
+   "text": []
+  },
+  "points": 1,
+  "incorrectPoints": 0
+ }
+}
